@@ -1,0 +1,27 @@
+body {
+  background-color:yellow;
+}
+
+
+
+
+
+h1  {
+  background-color: purple;
+  color: red;
+  font-size: 80px;
+  text-align: center;
+  text-decoration: underline;
+  font-style: oblique;
+  font-family: fantasy;
+}
+
+
+
+
+p {
+  color: red;
+  font-size: 15px;
+  font-style: oblique;
+  font-family: fantasy;
+}
